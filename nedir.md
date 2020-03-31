@@ -29,5 +29,6 @@ sayfasında yayımlanan
 doldurmaları ve "seffaflik@epias.com.tr" mail adresi üzerinden doldurulmuş
 şartnameyi firma ile paylaşmaları gerekmektedir. Kullanıcılar şeffaflık platformu 
 [kullanıcı kılavuzundaki](https://www.epias.com.tr/wp-content/uploads/2018/02/TR_API_PORTALI_KULLANICI_KILAVUZU.pdf) 
-adımları takip ederek **istemci tanıtıcılarını (client id)** temin etmelidirler. Sonrasında ise kullanıcılar aşağıdaki 
-adımları takip ederek kütüphaneyi kullanmaya başlayabilirler. 
+adımları takip ederek **istemci tanıtıcılarını (client id)** temin etmelidirler. Sonrasında ise kullanıcılar istemci
+ tanıcıları ile web servis hizmetinden ve dolayısıyla 
+ [şeffaflık python kütüphanesinden](https://nurisensoy.github.io/seffaflik/) de faydanalabileceklerir.
