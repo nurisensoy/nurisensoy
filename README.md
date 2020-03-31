@@ -1,5 +1,6 @@
 **1. [Enerji Piyasaları İşletme A.Ş. ve Şeffaflık Platformu](https://nurisensoy.github.io/seffaflikplatformu/nedir)**
 
-**2. [Şeffaflık Python Kütüphanesi](https://nurisensoy.github.io/seffaflik/)**
+**2. [Python ile Şeffaflık Platformu Web Servis Kulannımı](https://nurisensoy.github.io/seffaflikplatformu/ornek_istek)**
 
+**3. [Şeffaflık Python Kütüphanesi](https://nurisensoy.github.io/seffaflik/)**
 
