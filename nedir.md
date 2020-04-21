@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Şeffaflık Platformu ve Web Servis Hizmeti
 ---
 
