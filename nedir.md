@@ -1,6 +1,6 @@
 ---
 layout: page
-project-name: Şeffaflık Platformu ve Web Servis Hizmeti
+title: Şeffaflık Platformu ve Web Servis Hizmeti
 ---
 
 **1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
