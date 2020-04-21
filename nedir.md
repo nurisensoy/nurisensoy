@@ -1,7 +1,6 @@
 ---
-layout: nedir
+layout: page
 title: Şeffaflık Platformu ve Web Servis Hizmeti
-filename: nedir.md
 ---
 
 **1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
