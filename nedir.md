@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EPİAŞ Şeffaflık Platformu ve Web Servis Hizmeti
-#description: This is just another page
+description: EPİAŞ ve Şeffaflık Platformu Nedir? Şeffaflık Platformu Web Servis Hizmeti nasıl kullanılabilir?
 ---
 
 **1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
