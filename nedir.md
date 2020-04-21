@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Şeffaflık Platformu ve Web Servis Hizmeti
+layout: default
+title: EPİAŞ Şeffaflık Platformu ve Web Servis Hizmeti
+#description: This is just another page
 ---
 
 **1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
