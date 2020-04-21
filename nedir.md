@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Şeffaflık Platformu ve Web Servis Hizmeti
 ---
 
-**1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
+**1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ)**
 
 [EPİAŞ](https://www.epias.com.tr/)’ın başlıca amacı ve faaliyet konusu,
 “Piyasa işletim lisansında yer alan enerji piyasalarının etkin, şeffaf,
