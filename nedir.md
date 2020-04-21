@@ -1,8 +1,3 @@
----
-title: ŞEFFAFLIK
-layout: page
-filename: nedir.md
---- 
 **1. Enerji Piyasaları İşletme A.Ş. (EPİAŞ) Hakkında**
 
 [EPİAŞ](https://www.epias.com.tr/)’ın başlıca amacı ve faaliyet konusu,
