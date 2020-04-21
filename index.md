@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Nuri Şensoy, Ph.D.
 description: Kişisel Github Web Sayfası
 ---
