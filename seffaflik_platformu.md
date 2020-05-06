@@ -8,5 +8,5 @@ description: Enerji Piyasaları İşletme A.Ş. tarafından Türkiye Enerji Piya
 
 **2. [Python ile Şeffaflık Platformu Web Servis Kulanımı](https://nurisensoy.github.io/nurisensoy/ornek_istek)**
 
-**3. [Şeffaflık Python Kütüphanesi Kurulum ve Kullanım](https://nurisensoy.github.io/seffaflik/)**
+**3. [Şeffaflık Python Kütüphanesi Kurulum ve Kullanım](https://nurisensoy.github.io/nurisensoy/seffaflik_kutuphanesi/)**
 
