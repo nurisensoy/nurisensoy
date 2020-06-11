@@ -39,4 +39,4 @@ adımları takip ederek **istemci tanıtıcılarını (client id)** temin etmeli
  tanıcıları ile web servis hizmetinden ve dolayısıyla 
  [şeffaflık python kütüphanesinden](https://nurisensoy.github.io/seffaflik/) de faydanalabileceklerir.
 
-[Geri](./)
+[Geri](./seffaflik_platformu)
