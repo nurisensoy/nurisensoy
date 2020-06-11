@@ -38,3 +38,5 @@ doldurmaları ve "seffaflik@epias.com.tr" mail adresi üzerinden doldurulmuş
 adımları takip ederek **istemci tanıtıcılarını (client id)** temin etmelidirler. Sonrasında ise kullanıcılar istemci
  tanıcıları ile web servis hizmetinden ve dolayısıyla 
  [şeffaflık python kütüphanesinden](https://nurisensoy.github.io/seffaflik/) de faydanalabileceklerir.
+
+[Geri](./)
