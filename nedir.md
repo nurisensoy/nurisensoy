@@ -27,7 +27,7 @@ platformda yayımlanan tüm verilere buradan da kolaylıkla ulaşabilmektedir.
 
 **3. Şeffaflık Platformu Web Servis Hizmeti nasıl kullanılır?**
 
-Şeffaflık Platformu Web Servis Hizmetini ve [şeffaflık python kütüphanesi](https://nurisensoy.github.io/seffaflik/) 
+Şeffaflık Platformu Web Servis Hizmetini ve [şeffaflık python kütüphanesi](https://nurisensoy.github.io/nurisensoy/seffaflik_kutuphanesi) 
 kullanacak kişi/kurumların öncelikle belirtmiş oldukları IP numarası üzerinden Şeffaflık Platformu Web Servis Hizmeti 
 ile tüm verilere ulaşabilme iznini almaları geremektedir. Bunun için öncelikle kullanıcıların Şeffaflık Platformu web 
 sayfasında yayımlanan
@@ -37,6 +37,6 @@ doldurmaları ve "seffaflik@epias.com.tr" mail adresi üzerinden doldurulmuş
 [kullanıcı kılavuzundaki](https://www.epias.com.tr/wp-content/uploads/2018/02/TR_API_PORTALI_KULLANICI_KILAVUZU.pdf) 
 adımları takip ederek **istemci tanıtıcılarını (client id)** temin etmelidirler. Sonrasında ise kullanıcılar istemci
  tanıcıları ile web servis hizmetinden ve dolayısıyla 
- [şeffaflık python kütüphanesinden](https://nurisensoy.github.io/seffaflik/) de faydanalabileceklerir.
+ [şeffaflık python kütüphanesinden](https://nurisensoy.github.io/nurisensoy/seffaflik_kutuphanesi) de faydanalabileceklerir.
 
 [Geri](./seffaflik_platformu)
