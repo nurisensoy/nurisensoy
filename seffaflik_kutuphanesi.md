@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Şeffaflık Platformu Python Kütüphanesi
 description: EPİAŞ tarafından paylaşılmakta olan Türkiye Enerji Piyasalarına dair verilerin python aracılığıyla kolaylıkla çekilebilmesini sağlayan python kütüphanesi kullanım ve özellikleri
 ---
