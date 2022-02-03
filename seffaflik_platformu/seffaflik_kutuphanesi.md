@@ -20,7 +20,7 @@ $ pip install seffaflik
 ### Kimlik (Client Id) Oluşturulması
 Kütüphane yükleme işlemini tamamladıktan sonra kütüphane aracılığıyla veri çekiş işlemini gerçekleştirebilmeniz için 
 temin etmiş olduğunuz **istemci taniticisi (client id)** ile aşağıda belirtilen kimlik oluşturma sürecini de tamamlamış 
-olmanız gerekmektedir. [İstemci tanitici (client id) nasıl temin edilir?](https://nurisensoy.github.io/nurisensoy/nedir)
+olmanız gerekmektedir. [İstemci tanitici (client id) nasıl temin edilir?](https://nurisensoy.github.io/nurisensoy/seffaflik_platformu/nedir)
 
 ```python
 import seffaflik
@@ -53,6 +53,7 @@ seffaflik/
     │   ├── gop.py
     │   ├── ia.py  
     │   └── yanhizmetler.py
+    ├── iletim.py
     ├── santraller.py
     ├── tuketim.py
     ├── yekdem.py
@@ -61,8 +62,9 @@ seffaflik/
 ```
 Bu çerçevede tüm modüller şu şekilde import edilebilir:
 ```python
-from seffaflik.elektrik import santraller, tuketim, uretim, yekdem
+from seffaflik.elektrik import santraller, tuketim, uretim, yekdem, iletim
 from seffaflik.elektrik.piyasalar import dengesizlik, dgp, genel, gip, gop, ia, yanhizmetler
+from seffaflik.dogalgaz import stp
 ```
 ### Örnek İstekler
 Yukarıda belirtilen modüller import edildikten sonra aşağıda belirtilen örnek istekler yapılabilecektir.
