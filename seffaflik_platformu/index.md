@@ -10,4 +10,4 @@ description: Enerji Piyasaları İşletme A.Ş. tarafından Türkiye Enerji Piya
 
 **3. [Şeffaflık Python Kütüphanesi Kurulum ve Kullanım](https://nurisensoy.github.io/nurisensoy/seffaflik_platformu/seffaflik_kutuphanesi)**
 
-[Geri](./)
+[Geri](https://nurisensoy.github.io/nurisensoy)

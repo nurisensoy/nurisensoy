@@ -85,4 +85,4 @@ df = uretim.uevm(baslangic_tarihi='2019-01-01', bitis_tarihi='2019-01-01')
 df = tuketim.serbest_tuketici_sayisi("2019-01-01","2019-10-01")
 ```
 
-[Geri]()
+[Geri](https://nurisensoy.github.io/nurisensoy/seffaflik_platformu)
